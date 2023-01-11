@@ -1,1 +1,13 @@
+h1{
+font-size: 48px;
+}
+ul{
+    color: #777777;
+}
+ol{
+    padding-left: 24px;
+}
+.azul{
+    background-color: aquamarine;
+}
 /* Aquí va el css */
